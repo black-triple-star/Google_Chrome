@@ -1,4 +1,6 @@
-!Googlechrome設定.txt
+!googlechrome設定.txt
+
+# !googlechrome設定.txt 以外、除外
 *.7z
 
 
