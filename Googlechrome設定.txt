@@ -5,7 +5,7 @@ chrome://extensions/
 https://chrome.google.com/webstore/detail/keyboard-shortcuts-to-clo/dkoadhojigekhckndaehenfbhcgfeepl
 chrome://extensions/shortcuts   を開く、Keyboard Shortcuts to Close Other/Right Tabs　を探して alt+shift+r を設定する。（ctrl + shift + w は設定できない）
 
-
+https://chrome.google.com/webstore/detail/bookmark-sidebar/jdbnofccmhefkmjbkkdkfiicjkgofkdh?hl=ja
 https://chrome.google.com/webstore/detail/clear-cache/cppjkneekbjaeellbfkmgnhonkkjfpdn
 https://chrome.google.com/webstore/detail/tab-nullpo%20/pkolifcipfnlmkonikcnilfhgdbbhhko?hl=ja
 https://chrome.google.com/webstore/detail/onetab/chphlpgkkbolifaimnlloiipkdnihall?hl=ja
