@@ -17,6 +17,9 @@ AutoBackUp
 BackUp
 .svn
 *.un~
+*.swo
 *.swp
+*.swn
+
 
 
