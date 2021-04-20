@@ -3,6 +3,7 @@
 # !googlechrome設定.txt 以外、除外
 *.7z
 
+*.str-
 
 ~$*
 *.lnk
