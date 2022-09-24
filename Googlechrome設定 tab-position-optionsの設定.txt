@@ -1,0 +1,2 @@
+# https://chrome.google.com/webstore/detail/tab-position-options/fjccjnfkdkdmjohojoggodkigkjkkjhl
+{"actb":"activebutton4","newt":"true","osel":"openbutton3","popt":"true","openurl":[],"expurl":[],"loadingurl":[],"expexlnkurl":[],"onactvtb":"onactbutton1","exlnk":true}
