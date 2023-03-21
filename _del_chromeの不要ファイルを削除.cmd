@@ -54,6 +54,6 @@ for /f "delims=" %%I in ('dir /b /s /a-d ' ) do (
 		echo del /f /q  "%%I">>"%DELETE_FILE%"
 	)
 )
+echo del /f /q "%DELETE_FILE%">>"%DELETE_FILE%"
 
-%WINDIR%\explorer.exe /select,"%DELETE_FILE%"
-
+if not "%CD%"=="%SAVE_DIR%" (%WINDIR%\explorer.exe /select,"%DELETE_FILE%")
