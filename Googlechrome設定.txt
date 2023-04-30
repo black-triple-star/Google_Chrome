@@ -1,18 +1,23 @@
 
 chrome://extensions/
+edge://extensions/
 
 ##########################################################################################################
 
 タブの幅を設定する
 https://pc-karuma.net/tab-width-in-google-chrome/
 chrome://flags/
+edge://flags/
 Tab Scrolling を検索し「Enabled - tabs shrink to a large width」を選択する
+
+edge では見つからなかった。
 
 ##########################################################################################################
 
 Tab Position Options を設定する https://chrome.google.com/webstore/detail/tab-position-options/fjccjnfkdkdmjohojoggodkigkjkkjhl/related
 #Tab Position Customizer を設定する (ver 91 から動作しなくなった)
 chrome://extensions/
+edge://extensions
 
 ##########################################################################################################
 
@@ -21,21 +26,32 @@ https://chrome.google.com/webstore/detail/keyboard-shortcuts-to-clo/dkoadhojigek
 chrome://extensions/shortcuts
 を開く、Keyboard Shortcuts to Close Other/Right Tabs　を探して alt+shift+r を設定する。（ctrl + shift + w は設定できない）
 
+右側のタブを全て閉じる。(Keyboard shortcuts to close Chrome tabs を使って、右側のタブを全て閉じる。）
+https://chrome.google.com/webstore/detail/keyboard-shortcuts-to-clo/fipfgiejfpcdacpjepkohdlnjonchnal
+edge://extensions/shortcuts   を開く、Keyboard shortcuts to close Chrome tabs の Close tabs to the right を探して、alt+w を設定する（ctrl + shift + w は設定できない）
+chrome://extensions/shortcuts   を開く、Keyboard shortcuts to close Chrome tabs の Close tabs to the right を探して、alt+w を設定する（ctrl + shift + w は設定できない）
 
 ##########################################################################################################
-https://chrome.google.com/webstore/detail/tab-position-options/fjccjnfkdkdmjohojoggodkigkjkkjhl/related
+
+Don't Close Window With Last Tab	https://chrome.google.com/webstore/detail/dont-close-window-with-la/dlnpfhfhmkiebpnlllpehlmklgdggbhn
+Don't Close Window With Last Tab	https://microsoftedge.microsoft.com/addons/detail/dont-close-window-with-l/feebepaidmpgnkpngmeldoooofaacbhi?hl=ja-JA
+
+##########################################################################################################
+https://chrome.google.com/webstore/detail/full-page-screen-capture/fdpohaocaechififmbbbbbknoalclacl
+
 https://chrome.google.com/webstore/detail/new-tab-redirect/icpgjfneehieebagbmdbhnlpiopdcmna?hl=ja
 https://chrome.google.com/webstore/detail/clear-cache/cppjkneekbjaeellbfkmgnhonkkjfpdn
-https://chrome.google.com/webstore/detail/tab-nullpo%20/pkolifcipfnlmkonikcnilfhgdbbhhko?hl=ja
-https://chrome.google.com/webstore/detail/onetab/chphlpgkkbolifaimnlloiipkdnihall?hl=ja
-https://chrome.google.com/webstore/detail/full-page-screen-capture/fdpohaocaechififmbbbbbknoalclacl?utm_source=chrome-ntp-icon
 
-https://chrome.google.com/webstore/detail/tab-nullpo%20/pkolifcipfnlmkonikcnilfhgdbbhhko?hl=ja
+
+https://chrome.google.com/webstore/detail/onetab/chphlpgkkbolifaimnlloiipkdnihall?hl=ja
 https://chrome.google.com/webstore/detail/clear-cache/cppjkneekbjaeellbfkmgnhonkkjfpdn
 https://chrome.google.com/webstore/detail/tabsplus/nikomkkhhpfoeamojhhgpfkpkdlfhfii?utm_source=chrome-app-launcher-info-dialog
 
-https://chrome.google.com/webstore/detail/full-page-screen-capture/fdpohaocaechififmbbbbbknoalclacl
+
+
+
 Secure Shell App		https://chrome.google.com/webstore/detail/secure-shell-app/pnhechapfaindjhompbnflcldabbghjo
+
 
 OneTab
 Office Online
@@ -45,3 +61,6 @@ facebookの動画ダウンローダー	https://chrome.google.com/webstore/detail/facebook-
 
 
 https://chrome.google.com/webstore/detail/tab-resize-split-screen-l/bkpenclhmiealbebdopglffmfdiilejc?hl=ja
+
+
+
