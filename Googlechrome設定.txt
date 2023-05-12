@@ -47,8 +47,12 @@ https://chrome.google.com/webstore/detail/onetab/chphlpgkkbolifaimnlloiipkdnihal
 https://chrome.google.com/webstore/detail/clear-cache/cppjkneekbjaeellbfkmgnhonkkjfpdn
 https://chrome.google.com/webstore/detail/tabsplus/nikomkkhhpfoeamojhhgpfkpkdlfhfii?utm_source=chrome-app-launcher-info-dialog
 
+copy-link-address ÇÕ edge Ç≈ÇÕìÆçÏÇµÇ»Ç¢
+https://chrome.google.com/webstore/detail/copy-link-address/kdejdkdjdoabfihpcjmgjebcpfbhepmh?hl=ja
 
+##########################################################################################################
 
+égÇ¡ÇƒÇ»Ç¢
 
 Secure Shell App		https://chrome.google.com/webstore/detail/secure-shell-app/pnhechapfaindjhompbnflcldabbghjo
 
