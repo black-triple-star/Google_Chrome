@@ -8,9 +8,23 @@ edge://extensions/
 https://pc-karuma.net/tab-width-in-google-chrome/
 chrome://flags/
 edge://flags/
+
 Tab Scrolling を検索し「Enabled - tabs shrink to a large width」を選択する
 
-edge では見つからなかった。
+chrome://flags/#Tab-Scrolling
+edge://flags/#Tab-Scrolling
+
+# edge では見つからなかった。
+
+##########################################################################################################
+
+Chrome のダウンロード通知をページの下部表示に戻す
+https://www.helentech.net/news-32672/
+chrome://flags/#download-bubble
+edge://flags/#download-bubble
+# edge では見つからなかった。
+
+[Default] から [Disabled]に切り替える
 
 ##########################################################################################################
 
@@ -33,6 +47,7 @@ chrome://extensions/shortcuts   を開く、Keyboard shortcuts to close Chrome tabs 
 
 ##########################################################################################################
 
+Copytables	https://chrome.google.com/webstore/detail/copytables/ekdpkppgmlalfkphpibadldikjimijon?hl=ja
 Don't Close Window With Last Tab	https://chrome.google.com/webstore/detail/dont-close-window-with-la/dlnpfhfhmkiebpnlllpehlmklgdggbhn
 Don't Close Window With Last Tab	https://microsoftedge.microsoft.com/addons/detail/dont-close-window-with-l/feebepaidmpgnkpngmeldoooofaacbhi?hl=ja-JA
 
