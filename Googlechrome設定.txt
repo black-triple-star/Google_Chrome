@@ -4,60 +4,60 @@ edge://extensions/
 
 ##########################################################################################################
 
-ƒ^ƒu‚Ì•‚ğİ’è‚·‚é
+ã‚¿ãƒ–ã®å¹…ã‚’è¨­å®šã™ã‚‹
 https://pc-karuma.net/tab-width-in-google-chrome/
 chrome://flags/
 edge://flags/
 
-Tab Scrolling ‚ğŒŸõ‚µuEnabled - tabs shrink to a large widthv‚ğ‘I‘ğ‚·‚é
+Tab Scrolling ã‚’æ¤œç´¢ã—ã€ŒEnabled - tabs shrink to a large widthã€ã‚’é¸æŠã™ã‚‹
 
 chrome://flags/#Tab-Scrolling
 edge://flags/#Tab-Scrolling
 
-# edge ‚Å‚ÍŒ©‚Â‚©‚ç‚È‚©‚Á‚½B
+# edge ã§ã¯è¦‹ã¤ã‹ã‚‰ãªã‹ã£ãŸã€‚
 
 ##########################################################################################################
 
-Chrome ‚Ìƒ_ƒEƒ“ƒ[ƒh’Ê’m‚ğƒy[ƒW‚Ì‰º•”•\¦‚É–ß‚·
+Chrome ã®ãƒ€ã‚¦ãƒ³ãƒ­ãƒ¼ãƒ‰é€šçŸ¥ã‚’ãƒšãƒ¼ã‚¸ã®ä¸‹éƒ¨è¡¨ç¤ºã«æˆ»ã™
 https://www.helentech.net/news-32672/
 chrome://flags/#download-bubble
 https://support.google.com/chrome/thread/194407832/%E3%83%80%E3%82%A6%E3%83%B3%E3%83%AD%E3%83%BC%E3%83%89%E7%B5%90%E6%9E%9C%E3%81%AE%E8%A1%A8%E7%A4%BA%E5%85%88?hl=ja
 chrome://flags/#download-bubble-v2
-# chrome ver119 ‚Å‚Í•s‰Â”\‚É‚È‚Á‚½B
+# chrome ver119 ã§ã¯ä¸å¯èƒ½ã«ãªã£ãŸã€‚
 edge://flags/#download-bubble
-# edge ‚Å‚ÍŒ©‚Â‚©‚ç‚È‚©‚Á‚½B
+# edge ã§ã¯è¦‹ã¤ã‹ã‚‰ãªã‹ã£ãŸã€‚
 
-[Default] ‚©‚ç [Disabled]‚ÉØ‚è‘Ö‚¦‚é
+[Default] ã‹ã‚‰ [Disabled]ã«åˆ‡ã‚Šæ›¿ãˆã‚‹
 
 
 ##########################################################################################################
 
-Chrome ‚Ìƒ_ƒEƒ“ƒ[ƒh’Ê’m‚ğƒy[ƒW‚Ì‰º•”•\¦‚É–ß‚·
+Chrome ã®ãƒ€ã‚¦ãƒ³ãƒ­ãƒ¼ãƒ‰é€šçŸ¥ã‚’ãƒšãƒ¼ã‚¸ã®ä¸‹éƒ¨è¡¨ç¤ºã«æˆ»ã™
 https://blog.halpas.com/archives/17478
-‹N“®ƒIƒvƒVƒ‡ƒ“‚ğ‚Â‚¯‚éB  --disable-features=DownloadBubble
+èµ·å‹•ã‚ªãƒ—ã‚·ãƒ§ãƒ³ã‚’ã¤ã‘ã‚‹ã€‚  --disable-features=DownloadBubble
 
-—á
+ä¾‹
 C:\bin64\GoogleChromePortable\App\Chrome-bin\chrome.exe --disable-features=DownloadBubble
 
 
 ##########################################################################################################
 
-Tab Position Options ‚ğİ’è‚·‚é https://chrome.google.com/webstore/detail/tab-position-options/fjccjnfkdkdmjohojoggodkigkjkkjhl/related
-#Tab Position Customizer ‚ğİ’è‚·‚é (ver 91 ‚©‚ç“®ì‚µ‚È‚­‚È‚Á‚½)
+Tab Position Options ã‚’è¨­å®šã™ã‚‹ https://chrome.google.com/webstore/detail/tab-position-options/fjccjnfkdkdmjohojoggodkigkjkkjhl/related
+#Tab Position Customizer ã‚’è¨­å®šã™ã‚‹ (ver 91 ã‹ã‚‰å‹•ä½œã—ãªããªã£ãŸ)
 chrome://extensions/
 edge://extensions
 
 ##########################################################################################################
 
-‰E‘¤‚Ìƒ^ƒu‚ğ‘S‚Ä•Â‚¶‚éBiKeyboard Shortcuts to Close Other-Right Tabs ‚ğg‚Á‚ÄA‰E‘¤‚Ìƒ^ƒu‚ğ‘S‚Ä•Â‚¶‚éBj
+å³å´ã®ã‚¿ãƒ–ã‚’å…¨ã¦é–‰ã˜ã‚‹ã€‚ï¼ˆKeyboard Shortcuts to Close Other-Right Tabs ã‚’ä½¿ã£ã¦ã€å³å´ã®ã‚¿ãƒ–ã‚’å…¨ã¦é–‰ã˜ã‚‹ã€‚ï¼‰
 https://chrome.google.com/webstore/detail/keyboard-shortcuts-to-clo/dkoadhojigekhckndaehenfbhcgfeepl
 chrome://extensions/shortcuts
-‚ğŠJ‚­AKeyboard Shortcuts to Close Other/Right Tabs@‚ğ’T‚µ‚Ä alt+shift+r ‚ğİ’è‚·‚éBictrl + shift + w ‚Íİ’è‚Å‚«‚È‚¢j
+ã‚’é–‹ãã€Keyboard Shortcuts to Close Other/Right Tabsã€€ã‚’æ¢ã—ã¦ alt+shift+r ã‚’è¨­å®šã™ã‚‹ã€‚ï¼ˆctrl + shift + w ã¯è¨­å®šã§ããªã„ï¼‰
 
-‰E‘¤‚Ìƒ^ƒu‚ğ‘S‚Ä•Â‚¶‚éB(Keyboard shortcuts to close Chrome tabs ‚ğg‚Á‚ÄA‰E‘¤‚Ìƒ^ƒu‚ğ‘S‚Ä•Â‚¶‚éBj
+å³å´ã®ã‚¿ãƒ–ã‚’å…¨ã¦é–‰ã˜ã‚‹ã€‚(Keyboard shortcuts to close Chrome tabs ã‚’ä½¿ã£ã¦ã€å³å´ã®ã‚¿ãƒ–ã‚’å…¨ã¦é–‰ã˜ã‚‹ã€‚ï¼‰
 https://chrome.google.com/webstore/detail/keyboard-shortcuts-to-clo/fipfgiejfpcdacpjepkohdlnjonchnal
-edge://extensions/shortcuts   ‚ğŠJ‚­AKeyboard shortcuts to close Chrome tabs ‚Ì Close tabs to the right ‚ğ’T‚µ‚ÄAalt+w ‚ğİ’è‚·‚éictrl + shift + w ‚Íİ’è‚Å‚«‚È‚¢j
-chrome://extensions/shortcuts   ‚ğŠJ‚­AKeyboard shortcuts to close Chrome tabs ‚Ì Close tabs to the right ‚ğ’T‚µ‚ÄAalt+w ‚ğİ’è‚·‚éictrl + shift + w ‚Íİ’è‚Å‚«‚È‚¢j
+edge://extensions/shortcuts   ã‚’é–‹ãã€Keyboard shortcuts to close Chrome tabs ã® Close tabs to the right ã‚’æ¢ã—ã¦ã€alt+w ã‚’è¨­å®šã™ã‚‹ï¼ˆctrl + shift + w ã¯è¨­å®šã§ããªã„ï¼‰
+chrome://extensions/shortcuts   ã‚’é–‹ãã€Keyboard shortcuts to close Chrome tabs ã® Close tabs to the right ã‚’æ¢ã—ã¦ã€alt+w ã‚’è¨­å®šã™ã‚‹ï¼ˆctrl + shift + w ã¯è¨­å®šã§ããªã„ï¼‰
 
 ##########################################################################################################
 
@@ -76,21 +76,21 @@ https://chrome.google.com/webstore/detail/onetab/chphlpgkkbolifaimnlloiipkdnihal
 https://chrome.google.com/webstore/detail/clear-cache/cppjkneekbjaeellbfkmgnhonkkjfpdn
 https://chrome.google.com/webstore/detail/tabsplus/nikomkkhhpfoeamojhhgpfkpkdlfhfii?utm_source=chrome-app-launcher-info-dialog
 
-copy-link-address ‚Í edge ‚Å‚Í“®ì‚µ‚È‚¢
+copy-link-address ã¯ edge ã§ã¯å‹•ä½œã—ãªã„
 https://chrome.google.com/webstore/detail/copy-link-address/kdejdkdjdoabfihpcjmgjebcpfbhepmh?hl=ja
 
 ##########################################################################################################
 
-g‚Á‚Ä‚È‚¢
+ä½¿ã£ã¦ãªã„
 
 Secure Shell App		https://chrome.google.com/webstore/detail/secure-shell-app/pnhechapfaindjhompbnflcldabbghjo
 
 
 OneTab
 Office Online
-ƒuƒbƒNƒ}[ƒNƒTƒCƒhƒo[	https://chrome.google.com/webstore/detail/bookmark-sidebar/jdbnofccmhefkmjbkkdkfiicjkgofkdh?hl=ja
-facebook‚Ì“®‰æƒ_ƒEƒ“ƒ[ƒ_[	https://chrome.google.com/webstore/detail/facebook-video-downloader/ffflbdiodmhiipfcnmagakecnmcbmolp?hl=ja
-ƒf[ƒ^ƒZ[ƒo[	https://chrome.google.com/webstore/detail/data-saver/pfmgfdlgomnbgkofeojodiodmgpgmkac?hl=ja
+ãƒ–ãƒƒã‚¯ãƒãƒ¼ã‚¯ã‚µã‚¤ãƒ‰ãƒãƒ¼	https://chrome.google.com/webstore/detail/bookmark-sidebar/jdbnofccmhefkmjbkkdkfiicjkgofkdh?hl=ja
+facebookã®å‹•ç”»ãƒ€ã‚¦ãƒ³ãƒ­ãƒ¼ãƒ€ãƒ¼	https://chrome.google.com/webstore/detail/facebook-video-downloader/ffflbdiodmhiipfcnmagakecnmcbmolp?hl=ja
+ãƒ‡ãƒ¼ã‚¿ã‚»ãƒ¼ãƒãƒ¼	https://chrome.google.com/webstore/detail/data-saver/pfmgfdlgomnbgkofeojodiodmgpgmkac?hl=ja
 
 
 https://chrome.google.com/webstore/detail/tab-resize-split-screen-l/bkpenclhmiealbebdopglffmfdiilejc?hl=ja
