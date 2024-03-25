@@ -18,31 +18,31 @@ edge://flags/#Tab-Scrolling
 
 ##########################################################################################################
 
-Chrome のダウンロード通知をページの下部表示に戻す
-https://www.helentech.net/news-32672/
-chrome://flags/#download-bubble
-https://support.google.com/chrome/thread/194407832/%E3%83%80%E3%82%A6%E3%83%B3%E3%83%AD%E3%83%BC%E3%83%89%E7%B5%90%E6%9E%9C%E3%81%AE%E8%A1%A8%E7%A4%BA%E5%85%88?hl=ja
-chrome://flags/#download-bubble-v2
-# chrome ver119 では不可能になった。
-edge://flags/#download-bubble
-# edge では見つからなかった。
-
-[Default] から [Disabled]に切り替える
-
+#Chrome のダウンロード通知をページの下部表示に戻す
+#https://www.helentech.net/news-32672/
+#chrome://flags/#download-bubble
+#https://support.google.com/chrome/thread/194407832/%E3%83%80%E3%82%A6%E3%83%B3%E3%83%AD%E3%83%BC%E3%83%89%E7%B5%90%E6%9E%9C%E3%81%AE%E8%A1%A8%E7%A4%BA%E5%85%88?hl=ja
+#chrome://flags/#download-bubble-v2
+## chrome ver119 では不可能になった。
+#edge://flags/#download-bubble
+## edge では見つからなかった。
+#
+#[Default] から [Disabled]に切り替える
+#
+#
+###########################################################################################################
+#
+#Chrome のダウンロード通知をページの下部表示に戻す
+#https://blog.halpas.com/archives/17478
+#起動オプションをつける。  --disable-features=DownloadBubble
+#
+#例
+#C:\bin64\GoogleChromePortable\App\Chrome-bin\chrome.exe --disable-features=DownloadBubble
+# chrome ver121以降、不可能になった。
 
 ##########################################################################################################
 
-Chrome のダウンロード通知をページの下部表示に戻す
-https://blog.halpas.com/archives/17478
-起動オプションをつける。  --disable-features=DownloadBubble
-
-例
-C:\bin64\GoogleChromePortable\App\Chrome-bin\chrome.exe --disable-features=DownloadBubble
-
-
-##########################################################################################################
-
-Tab Position Options を設定する https://chrome.google.com/webstore/detail/tab-position-options/fjccjnfkdkdmjohojoggodkigkjkkjhl/related
+Tab Position Options を設定する https://chromewebstore.google.com/detail/tab-position-options/fjccjnfkdkdmjohojoggodkigkjkkjhl
 #Tab Position Customizer を設定する (ver 91 から動作しなくなった)
 chrome://extensions/
 edge://extensions
@@ -65,7 +65,31 @@ Copytables	https://chrome.google.com/webstore/detail/copytables/ekdpkppgmlalfkph
 Don't Close Window With Last Tab	https://chrome.google.com/webstore/detail/dont-close-window-with-la/dlnpfhfhmkiebpnlllpehlmklgdggbhn
 Don't Close Window With Last Tab	https://microsoftedge.microsoft.com/addons/detail/dont-close-window-with-l/feebepaidmpgnkpngmeldoooofaacbhi?hl=ja-JA
 
+
+https://chromewebstore.google.com/detail/tab-position-options/fjccjnfkdkdmjohojoggodkigkjkkjhl
+https://chromewebstore.google.com/detail/new-tab-redirect/icpgjfneehieebagbmdbhnlpiopdcmna
+https://chromewebstore.google.com/detail/clear-cache/cppjkneekbjaeellbfkmgnhonkkjfpdn
+https://chromewebstore.google.com/detail/onetab/chphlpgkkbolifaimnlloiipkdnihall?hl=ja
+https://chromewebstore.google.com/detail/full-page-screen-capture/fdpohaocaechififmbbbbbknoalclacl
+
+https://chromewebstore.google.com/detail/clear-cache/cppjkneekbjaeellbfkmgnhonkkjfpdn
+https://chromewebstore.google.com/detail/tabsplus/nikomkkhhpfoeamojhhgpfkpkdlfhfii?utm_source=chrome-app-launcher-info-dialog
+
+https://chromewebstore.google.com/detail/full-page-screen-capture/fdpohaocaechififmbbbbbknoalclacl
+Secure Shell App		https://chromewebstore.google.com/detail/secure-shell-app/pnhechapfaindjhompbnflcldabbghjo
+
+OneTab
+Office Online
+ブックマークサイドバー	https://chromewebstore.google.com/detail/bookmark-sidebar/jdbnofccmhefkmjbkkdkfiicjkgofkdh?hl=ja
+facebookの動画ダウンローダー	https://chromewebstore.google.com/detail/facebook-video-downloader/ffflbdiodmhiipfcnmagakecnmcbmolp?hl=ja
+データセーバー	https://chromewebstore.google.com/detail/data-saver/pfmgfdlgomnbgkofeojodiodmgpgmkac?hl=ja
+
+
+https://chromewebstore.google.com/detail/tab-resize-split-screen-l/bkpenclhmiealbebdopglffmfdiilejc?hl=ja
+
 ##########################################################################################################
+
+
 https://chrome.google.com/webstore/detail/full-page-screen-capture/fdpohaocaechififmbbbbbknoalclacl
 
 https://chrome.google.com/webstore/detail/new-tab-redirect/icpgjfneehieebagbmdbhnlpiopdcmna?hl=ja
