@@ -9,12 +9,19 @@ https://pc-karuma.net/tab-width-in-google-chrome/
 chrome://flags/
 edge://flags/
 
-Tab Scrolling を検索し「Enabled - tabs shrink to a large width」を選択する
+Tab Scrolling を検索し「Enabled - tabs shrink to a large width」(下から3番目くらい)を選択する
 
 chrome://flags/#Tab-Scrolling
 edge://flags/#Tab-Scrolling
 
 # edge では見つからなかった。
+
+##########################################################################################################
+# ダークモードをWebサイトに適用する
+# https://news.mynavi.jp/techplus/article/20240324-2912351/
+chrome://flags/#enable-force-dark
+
+Auto Dark Mode for Web Contents
 
 ##########################################################################################################
 
