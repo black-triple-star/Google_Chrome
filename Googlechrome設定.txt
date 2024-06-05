@@ -23,6 +23,140 @@ chrome://flags/#enable-force-dark
 
 Auto Dark Mode for Web Contents
 
+
+##########################################################################################################
+
+Tab Position Options を設定する
+https://chromewebstore.google.com/detail/tab-position-options/fjccjnfkdkdmjohojoggodkigkjkkjhl
+chrome://extensions/
+edge://extensions
+
+chrome://extensions/?id=fjccjnfkdkdmjohojoggodkigkjkkjhl
+chrome-extension://fjccjnfkdkdmjohojoggodkigkjkkjhl/options.html
+
+edge://extensions/?id=fjccjnfkdkdmjohojoggodkigkjkkjhl
+extension://fjccjnfkdkdmjohojoggodkigkjkkjhl/options.html
+
+New Tab : Right of current tab (上から3番目)
+New Tab : New Tab Background にチェックを付ける
+Activate Tab After Tab Closing : Left tab (上から4番目)
+
+##########################################################################################################
+
+Keyboard shortcuts to close Chrome tabs で右側のタブを全て閉じる。
+https://chrome.google.com/webstore/detail/keyboard-shortcuts-to-clo/fipfgiejfpcdacpjepkohdlnjonchnal
+
+chrome://extensions/shortcuts
+edge://extensions/shortcuts
+Keyboard shortcuts to close Chrome tabs  を検索
+Close tabs to the left : Alt + Shift + L
+Close other tabs : Alt + Shift + W
+Close tabs to the right : Alt + Shift + R
+Pin/unpin Tab : 
+
+#Keyboard Shortcuts to Close Other/Right Tabs で右側のタブを全て閉じる。
+#https://chrome.google.com/webstore/detail/keyboard-shortcuts-to-clo/dkoadhojigekhckndaehenfbhcgfeepl
+#chrome://extensions/shortcuts
+#を開く、Keyboard Shortcuts to Close Other/Right Tabs　を探して alt+shift+r を設定する。（ctrl + shift + w は設定できない）
+
+##########################################################################################################
+
+Copytables
+https://chrome.google.com/webstore/detail/copytables/ekdpkppgmlalfkphpibadldikjimijon?hl=ja
+chrome://extensions/shortcuts
+（なお、alt キーを押しながらドラッグするとテーブルを選択＆コピーできる。）
+
+https://yama-mac.com/copytables_chrome/
+コピー形式	内容	おすすめの使い方
+As is	見た目通りの表示形式	エクセルなどの表計算
+Plain Table	装飾なしで見た目通りの表示形式	エクセルなどの表計算
+Text	タブ区切り形式	テキストエディタ
+Text + Swap	行と列を入れ替えたタブ区切り形式	テキストエディタ
+CSV	カンマ区切り形式	テキストエディタ
+CSV + Swap	行と列を入れ替えたカンマ区切り形式	テキストエディタ
+HTML + CSS	装飾付きのhtml	テキストエディタ/HTMLエディタ
+HTML	html	テキストエディタ/HTMLエディタ
+Texttile	セル区切りを「|」で表示	メール本文に引用
+
+
+
+Don't Close Window With Last Tab
+https://chrome.google.com/webstore/detail/dont-close-window-with-la/dlnpfhfhmkiebpnlllpehlmklgdggbhn
+
+Don't Close Window With Last Tab ( edge 版 )
+https://microsoftedge.microsoft.com/addons/detail/dont-close-window-with-l/feebepaidmpgnkpngmeldoooofaacbhi?hl=ja-JA
+
+Google Chat 改行キー設定
+https://chromewebstore.google.com/detail/mfnigpcpfllpnmaobnojkhbhkefnemhk?hl=ja
+
+Tab Position Options
+https://chromewebstore.google.com/detail/tab-position-options/fjccjnfkdkdmjohojoggodkigkjkkjhl
+
+New Tab Redirect
+https://chromewebstore.google.com/detail/new-tab-redirect/icpgjfneehieebagbmdbhnlpiopdcmna
+
+Clear Cache
+https://chromewebstore.google.com/detail/clear-cache/cppjkneekbjaeellbfkmgnhonkkjfpdn
+
+Copy Link Address   edge では動作しない
+https://chrome.google.com/webstore/detail/copy-link-address/kdejdkdjdoabfihpcjmgjebcpfbhepmh?hl=ja
+
+Google Apps Script GitHub アシスタント
+https://chromewebstore.google.com/detail/google-apps-script-github/lfjcgcmkmjjlieihflfhjopckgpelofo
+
+
+
+uAutoPagerize
+https://chromewebstore.google.com/detail/uautopagerize/kdplapeciagkkjoignnkfpbfkebcfbpb?hl=ja
+
+
+##########################################################################################################
+
+使ってない
+
+AutoPagerize http://autopagerize.net/
+https://chromewebstore.google.com/detail/autopagerize/igiofjhpmpihnifddepnpngfjhkfenbp?hl=ja
+
+
+Table range select and copy like in Firefox!
+https://chromewebstore.google.com/detail/table-range-select-and-co/klojbfbefcejadioohmnkhjmbmecfapg
+
+
+Secure Shell App		https://chromewebstore.google.com/detail/secure-shell-app/pnhechapfaindjhompbnflcldabbghjo
+
+
+OneTab	https://chromewebstore.google.com/detail/onetab/chphlpgkkbolifaimnlloiipkdnihall?hl=ja
+
+Office Online
+ブックマークサイドバー	https://chrome.google.com/webstore/detail/bookmark-sidebar/jdbnofccmhefkmjbkkdkfiicjkgofkdh?hl=ja
+facebookの動画ダウンローダー	https://chrome.google.com/webstore/detail/facebook-video-downloader/ffflbdiodmhiipfcnmagakecnmcbmolp?hl=ja
+データセーバー	https://chrome.google.com/webstore/detail/data-saver/pfmgfdlgomnbgkofeojodiodmgpgmkac?hl=ja
+
+
+https://chrome.google.com/webstore/detail/tab-resize-split-screen-l/bkpenclhmiealbebdopglffmfdiilejc?hl=ja
+
+ブックマークサイドバー	https://chromewebstore.google.com/detail/bookmark-sidebar/jdbnofccmhefkmjbkkdkfiicjkgofkdh?hl=ja
+
+facebookの動画ダウンローダー	https://chromewebstore.google.com/detail/facebook-video-downloader/ffflbdiodmhiipfcnmagakecnmcbmolp?hl=ja
+データセーバー	https://chromewebstore.google.com/detail/data-saver/pfmgfdlgomnbgkofeojodiodmgpgmkac?hl=ja
+
+
+GoFullPage - Full Page Screen Capture
+https://chromewebstore.google.com/detail/full-page-screen-capture/fdpohaocaechififmbbbbbknoalclacl
+
+TabsPlus
+https://chromewebstore.google.com/detail/tabsplus/nikomkkhhpfoeamojhhgpfkpkdlfhfii?utm_source=chrome-app-launcher-info-dialog
+
+Tab Resize - split screen layouts
+https://chromewebstore.google.com/detail/tab-resize-split-screen-l/bkpenclhmiealbebdopglffmfdiilejc?hl=ja
+
+
+
+New Tab Redirect
+https://chrome.google.com/webstore/detail/new-tab-redirect/icpgjfneehieebagbmdbhnlpiopdcmna?hl=ja
+
+
+
 ##########################################################################################################
 
 #Chrome のダウンロード通知をページの下部表示に戻す
@@ -46,85 +180,3 @@ Auto Dark Mode for Web Contents
 #例
 #C:\bin64\GoogleChromePortable\App\Chrome-bin\chrome.exe --disable-features=DownloadBubble
 # chrome ver121以降、不可能になった。
-
-##########################################################################################################
-
-Tab Position Options を設定する https://chromewebstore.google.com/detail/tab-position-options/fjccjnfkdkdmjohojoggodkigkjkkjhl
-#Tab Position Customizer を設定する (ver 91 から動作しなくなった)
-chrome://extensions/
-edge://extensions
-
-##########################################################################################################
-
-右側のタブを全て閉じる。（Keyboard Shortcuts to Close Other-Right Tabs を使って、右側のタブを全て閉じる。）
-https://chrome.google.com/webstore/detail/keyboard-shortcuts-to-clo/dkoadhojigekhckndaehenfbhcgfeepl
-chrome://extensions/shortcuts
-を開く、Keyboard Shortcuts to Close Other/Right Tabs　を探して alt+shift+r を設定する。（ctrl + shift + w は設定できない）
-
-右側のタブを全て閉じる。(Keyboard shortcuts to close Chrome tabs を使って、右側のタブを全て閉じる。）
-https://chrome.google.com/webstore/detail/keyboard-shortcuts-to-clo/fipfgiejfpcdacpjepkohdlnjonchnal
-edge://extensions/shortcuts   を開く、Keyboard shortcuts to close Chrome tabs の Close tabs to the right を探して、alt+w を設定する（ctrl + shift + w は設定できない）
-chrome://extensions/shortcuts   を開く、Keyboard shortcuts to close Chrome tabs の Close tabs to the right を探して、alt+w を設定する（ctrl + shift + w は設定できない）
-
-##########################################################################################################
-
-Copytables	https://chrome.google.com/webstore/detail/copytables/ekdpkppgmlalfkphpibadldikjimijon?hl=ja
-Don't Close Window With Last Tab	https://chrome.google.com/webstore/detail/dont-close-window-with-la/dlnpfhfhmkiebpnlllpehlmklgdggbhn
-Don't Close Window With Last Tab	https://microsoftedge.microsoft.com/addons/detail/dont-close-window-with-l/feebepaidmpgnkpngmeldoooofaacbhi?hl=ja-JA
-
-
-https://chromewebstore.google.com/detail/tab-position-options/fjccjnfkdkdmjohojoggodkigkjkkjhl
-https://chromewebstore.google.com/detail/new-tab-redirect/icpgjfneehieebagbmdbhnlpiopdcmna
-https://chromewebstore.google.com/detail/clear-cache/cppjkneekbjaeellbfkmgnhonkkjfpdn
-https://chromewebstore.google.com/detail/onetab/chphlpgkkbolifaimnlloiipkdnihall?hl=ja
-https://chromewebstore.google.com/detail/full-page-screen-capture/fdpohaocaechififmbbbbbknoalclacl
-
-https://chromewebstore.google.com/detail/clear-cache/cppjkneekbjaeellbfkmgnhonkkjfpdn
-https://chromewebstore.google.com/detail/tabsplus/nikomkkhhpfoeamojhhgpfkpkdlfhfii?utm_source=chrome-app-launcher-info-dialog
-
-https://chromewebstore.google.com/detail/full-page-screen-capture/fdpohaocaechififmbbbbbknoalclacl
-Secure Shell App		https://chromewebstore.google.com/detail/secure-shell-app/pnhechapfaindjhompbnflcldabbghjo
-
-OneTab
-Office Online
-ブックマークサイドバー	https://chromewebstore.google.com/detail/bookmark-sidebar/jdbnofccmhefkmjbkkdkfiicjkgofkdh?hl=ja
-facebookの動画ダウンローダー	https://chromewebstore.google.com/detail/facebook-video-downloader/ffflbdiodmhiipfcnmagakecnmcbmolp?hl=ja
-データセーバー	https://chromewebstore.google.com/detail/data-saver/pfmgfdlgomnbgkofeojodiodmgpgmkac?hl=ja
-
-
-https://chromewebstore.google.com/detail/tab-resize-split-screen-l/bkpenclhmiealbebdopglffmfdiilejc?hl=ja
-
-##########################################################################################################
-
-
-https://chrome.google.com/webstore/detail/full-page-screen-capture/fdpohaocaechififmbbbbbknoalclacl
-
-https://chrome.google.com/webstore/detail/new-tab-redirect/icpgjfneehieebagbmdbhnlpiopdcmna?hl=ja
-https://chrome.google.com/webstore/detail/clear-cache/cppjkneekbjaeellbfkmgnhonkkjfpdn
-
-
-https://chrome.google.com/webstore/detail/onetab/chphlpgkkbolifaimnlloiipkdnihall?hl=ja
-https://chrome.google.com/webstore/detail/clear-cache/cppjkneekbjaeellbfkmgnhonkkjfpdn
-https://chrome.google.com/webstore/detail/tabsplus/nikomkkhhpfoeamojhhgpfkpkdlfhfii?utm_source=chrome-app-launcher-info-dialog
-
-copy-link-address は edge では動作しない
-https://chrome.google.com/webstore/detail/copy-link-address/kdejdkdjdoabfihpcjmgjebcpfbhepmh?hl=ja
-
-##########################################################################################################
-
-使ってない
-
-Secure Shell App		https://chrome.google.com/webstore/detail/secure-shell-app/pnhechapfaindjhompbnflcldabbghjo
-
-
-OneTab
-Office Online
-ブックマークサイドバー	https://chrome.google.com/webstore/detail/bookmark-sidebar/jdbnofccmhefkmjbkkdkfiicjkgofkdh?hl=ja
-facebookの動画ダウンローダー	https://chrome.google.com/webstore/detail/facebook-video-downloader/ffflbdiodmhiipfcnmagakecnmcbmolp?hl=ja
-データセーバー	https://chrome.google.com/webstore/detail/data-saver/pfmgfdlgomnbgkofeojodiodmgpgmkac?hl=ja
-
-
-https://chrome.google.com/webstore/detail/tab-resize-split-screen-l/bkpenclhmiealbebdopglffmfdiilejc?hl=ja
-
-
-
