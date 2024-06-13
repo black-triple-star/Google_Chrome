@@ -25,6 +25,14 @@ Auto Dark Mode for Web Contents
 
 
 ##########################################################################################################
+Get CRX
+https://chromewebstore.google.com/detail/get-crx/dijpllakibenlejkbajahncialkbdkjc
+
+元ファイルが欲しい拡張機能のウェブページにアクセス
+そのページにアクセスした状態で「GET CRX」のアクションボタンをクリック
+「Get CRX of this extension」をクリック
+
+##########################################################################################################
 
 Tab Position Options を設定する
 https://chromewebstore.google.com/detail/tab-position-options/fjccjnfkdkdmjohojoggodkigkjkkjhl
