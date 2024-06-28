@@ -32,6 +32,10 @@ https://chromewebstore.google.com/detail/get-crx/dijpllakibenlejkbajahncialkbdkj
 そのページにアクセスした状態で「GET CRX」のアクションボタンをクリック
 「Get CRX of this extension」をクリック
 
+chrome://extensions/
+パッケージ化されたcrxファイルは、ブラウザの拡張機能のページにドラッグ＆ドロップすると拡張機能として読み込むことが出来る
+https://shibaneko.mydns.jp/147/
+
 ##########################################################################################################
 
 Tab Position Options を設定する
