@@ -33,7 +33,7 @@ https://chromewebstore.google.com/detail/get-crx/dijpllakibenlejkbajahncialkbdkj
 「Get CRX of this extension」をクリック
 
 chrome://extensions/
-パッケージ化されたcrxファイルは、ブラウザの拡張機能のページにドラッグ＆ドロップすると拡張機能として読み込むことが出来る
+パッケージ化されたcrxファイルは、ブラウザの拡張機能のページをデベロッパーモードを有効にして、ドラッグ＆ドロップすると拡張機能として読み込むことが出来る
 https://shibaneko.mydns.jp/147/
 
 ##########################################################################################################
@@ -116,11 +116,11 @@ https://chrome.google.com/webstore/detail/copy-link-address/kdejdkdjdoabfihpcjmg
 Google Apps Script GitHub アシスタント
 https://chromewebstore.google.com/detail/google-apps-script-github/lfjcgcmkmjjlieihflfhjopckgpelofo
 
-
-
 uAutoPagerize
 https://chromewebstore.google.com/detail/uautopagerize/kdplapeciagkkjoignnkfpbfkebcfbpb?hl=ja
 
+URL短縮 & 自動コピー
+https://chromewebstore.google.com/detail/fidojahpeagaflnjjbpkpcajhcbghooh
 
 ##########################################################################################################
 
