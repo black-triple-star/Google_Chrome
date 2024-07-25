@@ -91,6 +91,9 @@ HTML	html	テキストエディタ/HTMLエディタ
 Texttile	セル区切りを「|」で表示	メール本文に引用
 
 
+Add URL to Window Title (Advanced KeePass Usage)
+https://chromewebstore.google.com/detail/add-url-to-window-title/ndiaggkadcioihmhghipjmgfeamgjeoi
+
 
 Don't Close Window With Last Tab
 https://chrome.google.com/webstore/detail/dont-close-window-with-la/dlnpfhfhmkiebpnlllpehlmklgdggbhn
