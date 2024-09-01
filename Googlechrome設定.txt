@@ -125,6 +125,10 @@ https://chromewebstore.google.com/detail/uautopagerize/kdplapeciagkkjoignnkfpbfk
 URL短縮 & 自動コピー
 https://chromewebstore.google.com/detail/fidojahpeagaflnjjbpkpcajhcbghooh
 
+Alt & Meta viewer
+https://gigazine.net/news/20240831-alt-meta-viewer/
+https://chromewebstore.google.com/detail/alt-meta-viewer/jjcjblcbnjhgjlnclhficglfjedhpjhl
+
 ##########################################################################################################
 
 使ってない
