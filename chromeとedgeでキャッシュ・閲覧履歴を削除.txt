@@ -1,0 +1,6 @@
+chrome://settings/privacy
+
+
+
+edge://settings/privacy
+
