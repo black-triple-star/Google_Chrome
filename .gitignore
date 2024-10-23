@@ -5,6 +5,7 @@
 
 *.str-
 
+.$*
 ~$*
 *.lnk
 *.pyc
@@ -22,6 +23,7 @@ BackUp
 *.swo
 *.swp
 *.swn
+*.bkp
 
 
 
