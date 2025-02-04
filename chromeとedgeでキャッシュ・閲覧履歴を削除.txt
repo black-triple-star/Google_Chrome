@@ -1,6 +1,7 @@
+chrome://settings/clearBrowserData
 chrome://settings/privacy
 
 
-
+edge://settings/clearBrowserData/clear
 edge://settings/privacy
 
