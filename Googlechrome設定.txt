@@ -38,18 +38,33 @@ https://shibaneko.mydns.jp/147/
 
 ##########################################################################################################
 
-Tab Position Customizer - Modified を設定する
+Tab Position Manager を設定する
+https://chromewebstore.google.com/detail/tab-position-manager/himggcichnnlneeeddfodhbmadplejhn
 
-https://chromewebstore.google.com/detail/tab-position-customizer-m/kkhcdbdhbmegbbhgmdhhpfmjhlhjlghp
+chrome://extensions/
+chrome-extension://himggcichnnlneeeddfodhbmadplejhn/options.html
+edge://extensions/
+extension://himggcichnnlneeeddfodhbmadplejhn/options.html
 
-chrome-extension://kkhcdbdhbmegbbhgmdhhpfmjhlhjlghp/options/options.html
 
-edge://extensions/?id=kkhcdbdhbmegbbhgmdhhpfmjhlhjlghp
-extension://kkhcdbdhbmegbbhgmdhhpfmjhlhjlghp/options/options.html
+New tab position : Right を選択
+Activate tab after active tab closed : Left を選択
 
-New Tab : Right of current tab (上から3番目)
-New Tab : New Tab Background にチェックを付ける
-Activate Tab After Tab Closing : Left tab (上から4番目)
+
+##########################################################################################################
+
+#Tab Position Customizer - Modified を設定する
+#
+#https://chromewebstore.google.com/detail/tab-position-customizer-m/kkhcdbdhbmegbbhgmdhhpfmjhlhjlghp
+#
+#chrome-extension://kkhcdbdhbmegbbhgmdhhpfmjhlhjlghp/options/options.html
+#
+#edge://extensions/?id=kkhcdbdhbmegbbhgmdhhpfmjhlhjlghp
+#extension://kkhcdbdhbmegbbhgmdhhpfmjhlhjlghp/options/options.html
+#
+#New Tab : Right of current tab (上から3番目)
+#New Tab : New Tab Background にチェックを付ける
+#Activate Tab After Tab Closing : Left tab (上から4番目)
 
 ##########################################################################################################
 
